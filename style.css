@@ -1,0 +1,48 @@
+form {
+    height: 250px;
+    width: 400px;
+    border:  2px solid black ;
+}
+
+h1 {
+    text-align: center;
+}
+
+.buttons {
+    margin-top: 20px;
+    padding: 5px; 
+    
+}
+
+.buttons:hover {
+    background-color: aqua;
+}
+
+span {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+label {
+    margin-left: 10px;
+    
+}
+
+.entete {
+    margin-left: 30px;
+}
+
+#Pseudo,
+#mdp {
+    margin-left: 20px;
+    
+}
+
+#tick {
+    margin-left: 30px;    
+}
+
+.entete2 {
+    margin-top: 5px;
+}
