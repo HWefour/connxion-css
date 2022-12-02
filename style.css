@@ -9,8 +9,8 @@ h1 {
 }
 
 .buttons {
-    margin-top: 20px;
     padding: 5px; 
+    margin: 20px 10px 0 10px;
     
 }
 
@@ -18,10 +18,10 @@ h1 {
     background-color: aqua;
 }
 
-span {
+.yo {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 label {
